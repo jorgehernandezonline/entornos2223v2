@@ -9,6 +9,7 @@ public class CCuenta {
     double saldo;
     double tipoInterés;
     int i;
+    int j;
 
     public CCuenta() {
     }
