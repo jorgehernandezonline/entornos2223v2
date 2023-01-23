@@ -3,17 +3,18 @@ package practicaunidad4;
 public class CCuenta {
 
     // Propiedades de la Clase Cuenta
-    String nombre;
+    String denominacion;
     String varableNueva1;
     String cuenta;
     double saldo;
     double tipoInterés;
+    int i;
 
     public CCuenta() {
     }
 
     public CCuenta(String nom, String cue, double sal, double tipo) {
-        nombre = nom;
+        denominacion = nom;
         cuenta = cue;
         saldo = sal;
         tipoInterés = tipo;
