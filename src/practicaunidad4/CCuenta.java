@@ -4,6 +4,7 @@ public class CCuenta {
 
     // Propiedades de la Clase Cuenta
     String nombre;
+    String varableNueva1;
     String cuenta;
     double saldo;
     double tipoInterés;
